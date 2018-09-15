@@ -1,0 +1,875 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect1536196295700,1002,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536196307584,750,User Login,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,546433,0,1,1,0,0,0
+1536196320781,1366,Search Life,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,127410,0,1,1,0,0,0
+1536196325942,598,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,255528,0,1,1,0,0,0
+1536196329698,3036,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,179371,0,1,1,0,0,0
+1536196336452,38,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,219987,0,1,1,0,0,0
+1536196339585,30234,Select Decision Type,500,"Timed out after 30 seconds waiting for visibility of element located by By.id: IsStandardBenefits
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.Z0WcKL}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 2be75c8ef2be6861cfcc52915c1a6dc1",4_UI_UW_LOAandCorro 1-1,text,false,,2755,0,1,1,0,0,0
+1536196372959,358,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,313690,0,1,1,0,0,0
+1536196376497,2085,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,353400,0,1,1,0,0,0
+1536196383849,30043,Edit Benefits,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //span[contains(text(),""Non Standard"")]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.Z0WcKL}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 2be75c8ef2be6861cfcc52915c1a6dc1",4_UI_UW_LOAandCorro 1-1,text,false,,2769,0,1,1,0,0,0
+1536196417082,30022,Click Submit ,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()=""UW Checker""]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.Z0WcKL}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 2be75c8ef2be6861cfcc52915c1a6dc1",4_UI_UW_LOAandCorro 1-1,text,false,,2754,0,1,1,0,0,0
+1536196462477,186,Log Out,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536196798048,658,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536196809706,710,User Login,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,545915,0,1,1,0,0,0
+1536196822866,31062,Search Life,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()=""Initial Assessment (Initial Assessment)""]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.H810er}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: bcb5b56c2defad16cb5efbba03a5aad4",4_UI_UW_LOAandCorro 1-1,text,false,,2783,0,1,1,0,0,0
+1536196856958,0,Click Initial Assessment,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""Initial Assessment (Initial Assessment)""]""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.H810er}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: bcb5b56c2defad16cb5efbba03a5aad4
+*** Element info: {Using=xpath, value=//a[text()=""Initial Assessment (Initial Assessment)""]}",4_UI_UW_LOAandCorro 1-1,text,false,,3932,0,1,1,0,0,0
+1536196875269,0,Click Make Decision Button,500,"java.lang.InterruptedException: sleep interrupted
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: driver.version: unknown",4_UI_UW_LOAandCorro 1-1,text,false,,1804,0,1,1,0,0,0
+1536196879219,1033,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536196891327,750,User Login,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,546433,0,1,1,0,0,0
+1536196904534,1233,Search Life,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,123931,0,1,1,0,0,0
+1536196911022,538,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,274719,0,1,1,0,0,0
+1536196914690,1446,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,128249,0,1,1,0,0,0
+1536196919838,32,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,216111,0,1,1,0,0,0
+1536196922950,231,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,300384,0,1,1,0,0,0
+1536196926356,262,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,309794,0,1,1,0,0,0
+1536196929845,328,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,349504,0,1,1,0,0,0
+1536196935532,10167,Edit Benefits,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,322301,0,1,1,0,0,0
+1536196948906,8812,Click Submit ,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,168325,0,1,1,0,0,0
+1536196967284,194,Log Out,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536300372385,854,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536300384424,860,User Login,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,564531,0,1,1,0,0,0
+1536300397858,1223,Search Life,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,139558,0,1,1,0,0,0
+1536300403271,524,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,292188,0,1,1,0,0,0
+1536300406980,1761,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,173529,0,1,1,0,0,0
+1536300412568,61,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,233297,0,1,1,0,0,0
+1536300415730,193,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,317523,0,1,1,0,0,0
+1536300419122,186,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,326902,0,1,1,0,0,0
+1536300422547,319,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,366607,0,1,1,0,0,0
+1536300428300,8171,Edit Benefits,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,339411,0,1,1,0,0,0
+1536300439762,8235,Click Submit ,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,148014,0,1,1,0,0,0
+1536300454981,1784,Submit UW Checker,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,218573,0,1,1,0,0,0
+1536300490913,0,Click Submit - Wait for Await Letter Of Alternate Terms,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //button[contains(text(),""Make Decision"")]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.AJuj0C}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 2f10a2a304a2834441ce858770f68622",4_UI_UW_LOAandCorro 1-1,text,false,,2772,0,1,1,0,0,0
+1536300500462,242,Log Out,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536300799242,676,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536300810904,852,User Login,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,564288,0,1,1,0,0,0
+1536300824249,1274,Search Life,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,135977,0,1,1,0,0,0
+1536300829403,665,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,289214,0,1,1,0,0,0
+1536300833218,1605,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,139854,0,1,1,0,0,0
+1536300838544,33,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,229714,0,1,1,0,0,0
+1536300841660,255,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,313955,0,1,1,0,0,0
+1536300845097,139,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,323332,0,1,1,0,0,0
+1536300848392,318,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,363039,0,1,1,0,0,0
+1536300854057,13171,Edit Benefits,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,335841,0,1,1,0,0,0
+1536300870472,8163,Click Submit ,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,197208,0,1,1,0,0,0
+1536300885823,1559,Submit UW Checker,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,144573,0,1,1,0,0,0
+1536300891337,9393,Click Submit - Wait for Await Letter Of Alternate Terms,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,150361,0,1,1,0,0,0
+1536300910726,72,Log Out,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536542334032,1126,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,3,0,0,0
+1536542347130,1515,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,564532,0,1,3,0,0,0
+1536542361272,1360,Search Life,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,140114,0,1,3,0,0,0
+1536542367210,646,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,293403,0,1,3,0,0,0
+1536542371035,2044,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,174486,0,1,3,0,0,0
+1536542376934,64,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,234250,0,1,3,0,0,0
+1536542380095,30259,Select Decision Type,500,"Timed out after 30 seconds waiting for visibility of element located by By.id: UWDecisionNotes
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.kbot75}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 3fa6cc35dc7e1bacc74362788db05723",4_UI_UW_LOAandCorro 2-1,text,false,,2752,0,1,2,0,0,0
+1536542413497,128,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,326830,0,1,2,0,0,0
+1536542416782,329,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,366540,0,1,2,0,0,0
+1536542422382,8090,Edit Benefits,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,339338,0,1,2,0,0,0
+1536542433702,9031,Click Submit ,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,148969,0,1,2,0,0,0
+1536542452229,167,Log Out,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,2,0,0,0
+1536543038681,949,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536543051276,4842,User Login,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,564909,0,1,1,0,0,0
+1536543068674,18362,Search Life,500,"java.lang.InterruptedException: sleep interrupted
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: driver.version: unknown",4_UI_UW_LOAandCorro 1-1,text,false,,1804,0,1,1,0,0,0
+1536543093282,644,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536543105109,928,User Login,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,564532,0,1,1,0,0,0
+1536543118533,1223,Search Life,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,140121,0,1,1,0,0,0
+1536543123574,611,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,293814,0,1,1,0,0,0
+1536543127356,1670,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,144381,0,1,1,0,0,0
+1536543132791,37,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,234275,0,1,1,0,0,0
+1536543135921,192,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,318549,0,1,1,0,0,0
+1536543139311,156,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,327991,0,1,1,0,0,0
+1536543142639,339,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,367701,0,1,1,0,0,0
+1536543148275,7967,Edit Benefits,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,340499,0,1,1,0,0,0
+1536543159509,7915,Click Submit ,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,185074,0,1,1,0,0,0
+1536543174724,1652,Submit UW Checker,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,154463,0,1,1,0,0,0
+1536543180269,10085,Click Submit - Wait for Await Letter Of Alternate Terms,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,157224,0,1,1,0,0,0
+1536543199897,165,Log Out,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536545100613,724,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,5,0,0,0
+1536545173970,900,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,564532,0,1,5,0,0,0
+1536545471512,633,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,5,0,0,0
+1536545500391,820,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,564561,0,1,5,0,0,0
+1536545568413,5715,Search Life,500,"java.lang.InterruptedException: sleep interrupted
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: driver.version: unknown",4_UI_UW_LOAandCorro 2-1,text,false,,1806,0,1,5,0,0,0
+1536545933028,654,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,5,0,0,0
+1536545991228,833,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,564532,0,1,5,0,0,0
+1536546184647,775,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,5,0,0,0
+1536546235624,3685,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,564891,0,1,5,0,0,0
+1536546286908,30060,Search Life,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()=""Initial Assessment (Initial Assessment)""]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.oPzDwN}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 17f2bf798e81fe1096ee510e218699c4",4_UI_UW_LOAandCorro 2-1,text,false,,2784,0,1,5,0,0,0
+1536546668814,1023,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6768,0,1,5,0,0,0
+1536546719403,1109,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,527688,0,1,5,0,0,0
+1536546946451,1001,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6768,0,1,5,0,0,0
+1536546962475,1578,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,561517,0,1,5,0,0,0
+1536547004267,0,Search Life,500,java.lang.InterruptedException: sleep interrupted,4_UI_UW_LOAandCorro 2-1,text,false,,1088,0,1,5,0,0,0
+1536547145818,734,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,5,0,0,0
+1536547205865,850,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,564561,0,1,5,0,0,0
+1536547239934,30190,Search Life,500,"Timed out after 30 seconds waiting for frame to be available: By.xpath: //div[@id=""module1""]//iframe
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.meW02o}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5810319d74afa91186916555aa12fa9c",4_UI_UW_LOAandCorro 2-1,text,false,,2749,0,1,5,0,0,0
+1536547281685,0,Click Initial Assessment,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""Initial Assessment (Initial Assessment)""]""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 23 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.meW02o}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5810319d74afa91186916555aa12fa9c
+*** Element info: {Using=xpath, value=//a[text()=""Initial Assessment (Initial Assessment)""]}",4_UI_UW_LOAandCorro 2-1,text,false,,3933,0,1,5,0,0,0
+1536547316102,0,Click Make Decision Button,500,"java.lang.InterruptedException: sleep interrupted
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: driver.version: unknown",4_UI_UW_LOAandCorro 2-1,text,false,,1805,0,1,5,0,0,0
+1536548119241,707,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,5,0,0,0
+1536548140856,1107,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,564350,0,1,5,0,0,0
+1536548162013,1378,Search Life,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,140122,0,1,5,0,0,0
+1536548221893,664,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,293024,0,1,5,0,0,0
+1536548239324,1774,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,144382,0,1,5,0,0,0
+1536548255884,31,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,234276,0,1,5,0,0,0
+1536548322810,30313,Select Decision Type,500,"Timed out after 30 seconds waiting for visibility of element located by By.id: UWDecisionNotes
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.IfPQb2}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a3965d58b887832cf6593d671ccbc7e7",4_UI_UW_LOAandCorro 2-1,text,false,,2753,0,1,5,0,0,0
+1536549431159,710,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,5,0,0,0
+1536549474070,955,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,564561,0,1,5,0,0,0
+1536549506594,1417,Search Life,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,140502,0,1,5,0,0,0
+1536549803677,760,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,5,0,0,0
+1536549859365,832,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,564096,0,1,5,0,0,0
+1536549890155,0,Search Life,500,java.lang.InterruptedException: sleep interrupted,4_UI_UW_LOAandCorro 2-1,text,false,,1088,0,1,5,0,0,0
+1536550255650,806,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,5,0,0,0
+1536550272455,1207,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,563857,0,1,5,0,0,0
+1536550302008,1736,Search Life,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,163854,0,1,5,0,0,0
+1536550317873,819,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,293815,0,1,5,0,0,0
+1536550330567,2032,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,144380,0,1,5,0,0,0
+1536550338101,37,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,234273,0,1,5,0,0,0
+1536550352400,223,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,318547,0,1,5,0,0,0
+1536550358461,136,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,327989,0,1,5,0,0,0
+1536550364733,315,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,367699,0,1,5,0,0,0
+1536550395130,7683,Edit Benefits,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,340497,0,1,5,0,0,0
+1536550410313,8927,Click Submit ,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,183122,0,1,5,0,0,0
+1536550431997,1717,Submit UW Checker,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,154835,0,1,5,0,0,0
+1536550464248,30074,Click Submit - Wait for Await Letter Of Alternate Terms,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()=""Await Letter Of Alternate Terms""]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.QDYlM1}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 3f978fddefdfea155321e4a81af13b5a",4_UI_UW_LOAandCorro 2-1,text,false,,2776,0,1,5,0,0,0
+1536550511337,167,Log Out,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,5,0,0,0
+1536550524913,1047,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,5,0,0,0
+1536550546308,3859,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,564867,0,1,4,0,0,0
+1536550565698,30119,Search Life,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()=""Initial Assessment (Initial Assessment)""]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.LoMUGv}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f970a39b41453d7ad5e74e65f9a5a609",4_UI_UW_LOAandCorro 2-1,text,false,,2784,0,1,4,0,0,0
+1536550617415,0,Click Initial Assessment,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""Initial Assessment (Initial Assessment)""]""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 10 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.LoMUGv}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f970a39b41453d7ad5e74e65f9a5a609
+*** Element info: {Using=xpath, value=//a[text()=""Initial Assessment (Initial Assessment)""]}",4_UI_UW_LOAandCorro 2-1,text,false,,3933,0,1,4,0,0,0
+1536550657892,0,Click Make Decision Button,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //button[contains(text(),""Make Decision"")]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.LoMUGv}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f970a39b41453d7ad5e74e65f9a5a609",4_UI_UW_LOAandCorro 2-1,text,false,,2772,0,1,4,0,0,0
+1536550674807,0,Click Make Decision Status,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""Make Decision (Make Decision)""]""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.LoMUGv}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f970a39b41453d7ad5e74e65f9a5a609
+*** Element info: {Using=xpath, value=//a[text()=""Make Decision (Make Decision)""]}",4_UI_UW_LOAandCorro 2-1,text,false,,3923,0,1,4,0,0,0
+1536550683670,0,Select Decision Type,500,"no such element: Unable to locate element: {""method"":""id"",""selector"":""DecisionType""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.LoMUGv}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f970a39b41453d7ad5e74e65f9a5a609
+*** Element info: {Using=id, value=DecisionType}",4_UI_UW_LOAandCorro 2-1,text,false,,3839,0,1,4,0,0,0
+1536550698296,0,Click Edit Benefit Details,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""(//div[@class=""layout layout-noheader layout-noheader-tal_benefit_and_policies_header""]//img)[2]""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 20 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.LoMUGv}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f970a39b41453d7ad5e74e65f9a5a609
+*** Element info: {Using=xpath, value=(//div[@class=""layout layout-noheader layout-noheader-tal_benefit_and_policies_header""]//img)[2]}",4_UI_UW_LOAandCorro 2-1,text,false,,4030,0,1,4,0,0,0
+1536550708056,0,Click Update Benefit,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//span[text()=""Update Benefit""]""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.LoMUGv}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f970a39b41453d7ad5e74e65f9a5a609
+*** Element info: {Using=xpath, value=//span[text()=""Update Benefit""]}",4_UI_UW_LOAandCorro 2-1,text,false,,3898,0,1,4,0,0,0
+1536550713139,0,Edit Benefits,500,"no such element: Unable to locate element: {""method"":""id"",""selector"":""Decision""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.LoMUGv}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f970a39b41453d7ad5e74e65f9a5a609
+*** Element info: {Using=id, value=Decision}",4_UI_UW_LOAandCorro 2-1,text,false,,3831,0,1,4,0,0,0
+1536550749060,0,Click Submit ,500,"Timed out after 30 seconds waiting for element to be clickable: By.xpath: //button[contains(text(),""Submit"")]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.LoMUGv}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f970a39b41453d7ad5e74e65f9a5a609",4_UI_UW_LOAandCorro 2-1,text,false,,2757,0,1,4,0,0,0
+1536550771208,0,Submit UW Checker,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""UW Checker""]""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.LoMUGv}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f970a39b41453d7ad5e74e65f9a5a609
+*** Element info: {Using=xpath, value=//a[text()=""UW Checker""]}",4_UI_UW_LOAandCorro 2-1,text,false,,3875,0,1,4,0,0,0
+1536550810352,0,Click Submit - Wait for Await Letter Of Alternate Terms,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""Make Decision (Make Decision)""]""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.LoMUGv}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f970a39b41453d7ad5e74e65f9a5a609
+*** Element info: {Using=xpath, value=//a[text()=""Make Decision (Make Decision)""]}",4_UI_UW_LOAandCorro 2-1,text,false,,3913,0,1,4,0,0,0
+1536550823049,167,Log Out,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,4,0,0,0
+1536550825236,761,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,4,0,0,0
+1536550844059,807,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,564272,0,1,4,0,0,0
+1536550859668,1514,Search Life,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,163854,0,1,4,0,0,0
+1536550871514,789,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,303702,0,1,4,0,0,0
+1536550875824,1918,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,144760,0,1,4,0,0,0
+1536550896496,33,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,234274,0,1,4,0,0,0
+1536550901371,274,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,318962,0,1,4,0,0,0
+1536550914402,197,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,327990,0,1,4,0,0,0
+1536550918157,342,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,367700,0,1,4,0,0,0
+1536550925362,8279,Edit Benefits,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,340498,0,1,4,0,0,0
+1536550939495,11921,Click Submit ,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,149344,0,1,4,0,0,0
+1536550966351,1612,Submit UW Checker,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,154456,0,1,3,0,0,0
+1536550981063,12076,Click Submit - Wait for Await Letter Of Alternate Terms,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,200012,0,1,1,0,0,0
+1536551016612,180,Log Out,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,1,0,0,0
+1536551022353,715,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,1,0,0,0
+1536551036948,837,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,564388,0,1,1,0,0,0
+1536551052035,1509,Search Life,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,140122,0,1,1,0,0,0
+1536551062825,689,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,293024,0,1,1,0,0,0
+1536551084373,1903,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,177757,0,1,1,0,0,0
+1536551105157,32,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,234274,0,1,1,0,0,0
+1536551120727,258,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,318548,0,1,1,0,0,0
+1536551128131,190,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,327990,0,1,1,0,0,0
+1536551138514,406,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,367700,0,1,1,0,0,0
+1536551152034,15921,Edit Benefits,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,340498,0,1,1,0,0,0
+1536551178093,9696,Click Submit ,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,149344,0,1,1,0,0,0
+1536551204485,1781,Submit UW Checker,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,154836,0,1,1,0,0,0
+1536551220444,10773,Click Submit - Wait for Await Letter Of Alternate Terms,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,157214,0,1,1,0,0,0
+1536551256593,205,Log Out,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,1,0,0,0
+1536552173271,685,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,2,0,0,0
+1536552191001,831,User Login,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,564555,0,1,2,0,0,0
+1536552208529,1600,Search Life,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,140122,0,1,2,0,0,0
+1536552216143,801,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,293404,0,1,2,0,0,0
+1536552227077,1774,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,144380,0,1,2,0,0,0
+1536552234997,30,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,234274,0,1,2,0,0,0
+1536552242733,256,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,318962,0,1,2,0,0,0
+1536552251224,150,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,327990,0,1,2,0,0,0
+1536552256997,329,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,367700,0,1,2,0,0,0
+1536552269592,13568,Edit Benefits,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,340498,0,1,2,0,0,0
+1536552292700,8824,Click Submit ,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,191763,0,1,2,0,0,0
+1536552309142,1816,Submit UW Checker,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,207213,0,1,2,0,0,0
+1536552315523,11804,Click Submit - Wait for Await Letter Of Alternate Terms,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,157213,0,1,2,0,0,0
+1536552342900,176,Log Out,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,2,0,0,0
+1536552346223,716,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,2,0,0,0
+1536552358959,1324,User Login,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,564533,0,1,2,0,0,0
+1536552373026,1454,Search Life,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,163854,0,1,2,0,0,0
+1536552383826,651,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,293024,0,1,2,0,0,0
+1536552391616,2123,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,144760,0,1,2,0,0,0
+1536552403906,36,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,234274,0,1,2,0,0,0
+1536552410087,243,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,318962,0,1,2,0,0,0
+1536552416236,187,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,327990,0,1,2,0,0,0
+1536552425945,323,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,367700,0,1,2,0,0,0
+1536552436040,8981,Edit Benefits,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,340498,0,1,2,0,0,0
+1536552450093,8192,Click Submit ,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,148964,0,1,2,0,0,0
+1536552469270,1964,Submit UW Checker,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,154836,0,1,2,0,0,0
+1536552479262,11206,Click Submit - Wait for Await Letter Of Alternate Terms,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,157593,0,1,2,0,0,0
+1536552500607,142,Log Out,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,2,0,0,0
+1536552503171,602,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,2,0,0,0
+1536552521476,806,User Login,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,564533,0,1,2,0,0,0
+1536552539811,1387,Search Life,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,140122,0,1,2,0,0,0
+1536552547450,654,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,293206,0,1,2,0,0,0
+1536552555225,1857,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,144380,0,1,2,0,0,0
+1536552566594,33,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,234274,0,1,2,0,0,0
+1536552570530,267,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,318548,0,1,2,0,0,0
+1536552574945,200,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,327990,0,1,2,0,0,0
+1536552581683,335,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,367700,0,1,2,0,0,0
+1536552589727,9637,Edit Benefits,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,340498,0,1,2,0,0,0
+1536552606837,11762,Click Submit ,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,148964,0,1,2,0,0,0
+1536552628836,1571,Submit UW Checker,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,154835,0,1,1,0,0,0
+1536552643938,16053,Click Submit - Wait for Await Letter Of Alternate Terms,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,157213,0,1,1,0,0,0
+1536552670367,185,Log Out,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536552676559,692,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536552692691,811,User Login,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,564563,0,1,1,0,0,0
+1536552710873,1425,Search Life,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,140502,0,1,1,0,0,0
+1536552716732,701,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,293206,0,1,1,0,0,0
+1536552721463,1992,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,144380,0,1,1,0,0,0
+1536552734451,46,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,234274,0,1,1,0,0,0
+1536552737749,301,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,318962,0,1,1,0,0,0
+1536552741823,136,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,327990,0,1,1,0,0,0
+1536552745460,314,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,367700,0,1,1,0,0,0
+1536552755329,9837,Edit Benefits,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,340498,0,1,1,0,0,0
+1536552772191,8912,Click Submit ,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,191803,0,1,1,0,0,0
+1536552791817,1958,Submit UW Checker,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,207213,0,1,1,0,0,0
+1536552802981,16158,Click Submit - Wait for Await Letter Of Alternate Terms,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,157593,0,1,1,0,0,0
+1536552832007,148,Log Out,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536711468566,1016,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536711484187,871,User Login,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,564118,0,1,1,0,0,0
+1536711499931,1432,Search Life,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,140503,0,1,1,0,0,0
+1536711509298,747,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,293029,0,1,1,0,0,0
+1536711515398,2076,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,144383,0,1,1,0,0,0
+1536711532921,43,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,234278,0,1,1,0,0,0
+1536711540374,235,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,318552,0,1,1,0,0,0
+1536711553690,172,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,327994,0,1,1,0,0,0
+1536711570818,349,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,367704,0,1,1,0,0,0
+1536711579425,30186,Edit Benefits,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //span[contains(text(),""Non Standard"")]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.6kXFdG}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 1260ec1b0d31e72a031c7ca7ba80f7ca",4_UI_UW_LOAandCorro 1-1,text,false,,2771,0,1,1,0,0,0
+1536711649299,0,Click Submit ,500,"Timed out after 30 seconds waiting for element to be clickable: By.xpath: //button[contains(text(),""Submit"")]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.6kXFdG}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 1260ec1b0d31e72a031c7ca7ba80f7ca",4_UI_UW_LOAandCorro 1-1,text,false,,2758,0,1,1,0,0,0
+1536711656401,0,Submit UW Checker,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""UW Checker""]""}
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.6kXFdG}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 1260ec1b0d31e72a031c7ca7ba80f7ca
+*** Element info: {Using=xpath, value=//a[text()=""UW Checker""]}",4_UI_UW_LOAandCorro 1-1,text,false,,3877,0,1,1,0,0,0
+1536711663489,0,Click Submit - Wait for Await Letter Of Alternate Terms,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""Make Decision (Make Decision)""]""}
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.6kXFdG}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 1260ec1b0d31e72a031c7ca7ba80f7ca
+*** Element info: {Using=xpath, value=//a[text()=""Make Decision (Make Decision)""]}",4_UI_UW_LOAandCorro 1-1,text,false,,3915,0,1,1,0,0,0
+1536711687818,165,Log Out,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536711689527,730,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536711718428,1032,User Login,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,564532,0,1,1,0,0,0
+1536711747026,31310,Search Life,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()=""Initial Assessment (Initial Assessment)""]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.sHS4YM}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: da953742ca35157ff81a063b9b0a3729",4_UI_UW_LOAandCorro 1-1,text,false,,2785,0,1,1,0,0,0
+1536711792241,0,Click Initial Assessment,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""Initial Assessment (Initial Assessment)""]""}
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.sHS4YM}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: da953742ca35157ff81a063b9b0a3729
+*** Element info: {Using=xpath, value=//a[text()=""Initial Assessment (Initial Assessment)""]}",4_UI_UW_LOAandCorro 1-1,text,false,,3935,0,1,1,0,0,0
+1536711831154,0,Click Make Decision Button,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //button[contains(text(),""Make Decision"")]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.sHS4YM}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: da953742ca35157ff81a063b9b0a3729",4_UI_UW_LOAandCorro 1-1,text,false,,2773,0,1,1,0,0,0
+1536711848120,0,Click Make Decision Status,500,"chrome not reachable
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 8 milliseconds
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.sHS4YM}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: da953742ca35157ff81a063b9b0a3729
+*** Element info: {Using=xpath, value=//a[text()=""Make Decision (Make Decision)""]}",4_UI_UW_LOAandCorro 1-1,text,false,,3844,0,1,1,0,0,0
+1536724240211,806,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536724253405,771,User Login,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,563553,0,1,1,0,0,0
+1536724271095,1316,Search Life,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,140502,0,1,1,0,0,0
+1536724283800,732,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,293809,0,1,1,0,0,0
+1536724291234,1866,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,144380,0,1,1,0,0,0
+1536724304573,34,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,234272,0,1,1,0,0,0
+1536724308969,272,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,318946,0,1,1,0,0,0
+1536724318968,108,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,327976,0,1,1,0,0,0
+1536724322994,293,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,367684,0,1,1,0,0,0
+1536724336690,10432,Edit Benefits,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,340484,0,1,1,0,0,0
+1536724363871,9376,Click Submit ,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,185069,0,1,1,0,0,0
+1536724384026,1666,Submit UW Checker,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,154455,0,1,1,0,0,0
+1536724396512,15772,Click Submit - Wait for Await Letter Of Alternate Terms,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,157593,0,1,1,0,0,0
+1536724433427,343,Log Out,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536724439131,729,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 1-1,text,true,,6835,0,1,1,0,0,0
+1536727641442,757,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6768,0,1,5,0,0,0
+1536727688424,1193,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,561517,0,1,5,0,0,0
+1536727797624,3640,Search Life,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,163607,0,1,5,0,0,0
+1536727853438,3222,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,293764,0,1,5,0,0,0
+1536730159495,916,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6768,0,1,5,0,0,0
+1536730177155,1475,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,561632,0,1,5,0,0,0
+1536730191448,2767,Search Life,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,140263,0,1,5,0,0,0
+1536730213074,6153,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,292973,0,1,5,0,0,0
+1536730227845,8721,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,144527,0,1,5,0,0,0
+1536730245387,225,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,234083,0,1,5,0,0,0
+1536730249433,2296,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,318684,0,1,5,0,0,0
+1536730262304,3793,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,327743,0,1,5,0,0,0
+1536730272507,3166,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,367468,0,1,5,0,0,0
+1536730284872,31950,Edit Benefits,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //span[contains(text(),""Non Standard"")]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=1258287013, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c8199690-b64c-11e8-b0a8-f9ff74854cb8",4_UI_UW_LOAandCorro 2-1,text,false,,2678,0,1,5,0,0,0
+1536730327978,30140,Click Submit - Wait for UW Checker,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()=""UW Checker""]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=1258287013, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c8199690-b64c-11e8-b0a8-f9ff74854cb8",4_UI_UW_LOAandCorro 2-1,text,false,,2663,0,1,5,0,0,0
+1536730367662,0,Click Submit - Wait for UW Make Decision,500,"{""errorMessage"":""Unable to find element with xpath '//a[text()=\""UW Checker\""]'"",""request"":{""headers"":{""Accept-Encoding"":""gzip,deflate"",""Connection"":""Keep-Alive"",""Content-Length"":""54"",""Content-Type"":""application/json; charset=utf-8"",""Host"":""localhost:26287"",""User-Agent"":""Apache-HttpClient/4.5.5 (Java/9.0.4)""},""httpVersion"":""1.1"",""method"":""POST"",""post"":""{\""using\"":\""xpath\"",\""value\"":\""//a[text()=\\\""UW Checker\\\""]\""}"",""url"":""/element"",""urlParsed"":{""anchor"":"""",""query"":"""",""file"":""element"",""directory"":""/"",""path"":""/element"",""relative"":""/element"",""port"":"""",""host"":"""",""password"":"""",""user"":"""",""userInfo"":"""",""authority"":"""",""protocol"":"""",""source"":""/element"",""queryKey"":{},""chunks"":[""element""]},""urlOriginal"":""/session/c8199690-b64c-11e8-b0a8-f9ff74854cb8/element""}}
+Command duration or timeout: 1.08 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=1258287013, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c8199690-b64c-11e8-b0a8-f9ff74854cb8
+*** Element info: {Using=xpath, value=//a[text()=""UW Checker""]}",4_UI_UW_LOAandCorro 2-1,text,false,,4224,0,1,5,0,0,0
+1536730373376,0,Click Submit - Wait for Await Letter Of Alternate Terms,500,"{""errorMessage"":""Unable to find element with xpath '//a[text()=\""Make Decision (Make Decision)\""]'"",""request"":{""headers"":{""Accept-Encoding"":""gzip,deflate"",""Connection"":""Keep-Alive"",""Content-Length"":""73"",""Content-Type"":""application/json; charset=utf-8"",""Host"":""localhost:26287"",""User-Agent"":""Apache-HttpClient/4.5.5 (Java/9.0.4)""},""httpVersion"":""1.1"",""method"":""POST"",""post"":""{\""using\"":\""xpath\"",\""value\"":\""//a[text()=\\\""Make Decision (Make Decision)\\\""]\""}"",""url"":""/element"",""urlParsed"":{""anchor"":"""",""query"":"""",""file"":""element"",""directory"":""/"",""path"":""/element"",""relative"":""/element"",""port"":"""",""host"":"""",""password"":"""",""user"":"""",""userInfo"":"""",""authority"":"""",""protocol"":"""",""source"":""/element"",""queryKey"":{},""chunks"":[""element""]},""urlOriginal"":""/session/c8199690-b64c-11e8-b0a8-f9ff74854cb8/element""}}
+Command duration or timeout: 1.12 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=1258287013, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c8199690-b64c-11e8-b0a8-f9ff74854cb8
+*** Element info: {Using=xpath, value=//a[text()=""Make Decision (Make Decision)""]}",4_UI_UW_LOAandCorro 2-1,text,false,,4281,0,1,5,0,0,0
+1536730384787,54,Log Out,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6768,0,1,5,0,0,0
+1536730388499,1135,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6768,0,1,5,0,0,0
+1536730406411,2982,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,561688,0,1,5,0,0,0
+1536730422244,5994,Search Life,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,198145,0,1,5,0,0,0
+1536730435941,5351,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,269915,0,1,5,0,0,0
+1536730457421,14675,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,144527,0,1,4,0,0,0
+1536730489577,291,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,234083,0,1,4,0,0,0
+1536730496175,685,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,318265,0,1,4,0,0,0
+1536730503653,2620,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,327731,0,1,4,0,0,0
+1536730516914,1853,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,367454,0,1,4,0,0,0
+1536730528409,31631,Edit Benefits,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //span[contains(text(),""Non Standard"")]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=572746693, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 53619040-b64d-11e8-90bc-3d7433bc25cf",4_UI_UW_LOAandCorro 2-1,text,false,,2677,0,1,4,0,0,0
+1536730568496,31645,Click Submit - Wait for UW Checker,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()=""UW Checker""]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=572746693, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 53619040-b64d-11e8-90bc-3d7433bc25cf",4_UI_UW_LOAandCorro 2-1,text,false,,2662,0,1,4,0,0,0
+1536730606461,0,Click Submit - Wait for UW Make Decision,500,"{""errorMessage"":""Unable to find element with xpath '//a[text()=\""UW Checker\""]'"",""request"":{""headers"":{""Accept-Encoding"":""gzip,deflate"",""Connection"":""Keep-Alive"",""Content-Length"":""54"",""Content-Type"":""application/json; charset=utf-8"",""Host"":""localhost:20378"",""User-Agent"":""Apache-HttpClient/4.5.5 (Java/9.0.4)""},""httpVersion"":""1.1"",""method"":""POST"",""post"":""{\""using\"":\""xpath\"",\""value\"":\""//a[text()=\\\""UW Checker\\\""]\""}"",""url"":""/element"",""urlParsed"":{""anchor"":"""",""query"":"""",""file"":""element"",""directory"":""/"",""path"":""/element"",""relative"":""/element"",""port"":"""",""host"":"""",""password"":"""",""user"":"""",""userInfo"":"""",""authority"":"""",""protocol"":"""",""source"":""/element"",""queryKey"":{},""chunks"":[""element""]},""urlOriginal"":""/session/53619040-b64d-11e8-90bc-3d7433bc25cf/element""}}
+Command duration or timeout: 975 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=572746693, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 53619040-b64d-11e8-90bc-3d7433bc25cf
+*** Element info: {Using=xpath, value=//a[text()=""UW Checker""]}",4_UI_UW_LOAandCorro 2-1,text,false,,4227,0,1,4,0,0,0
+1536730618877,0,Click Submit - Wait for Await Letter Of Alternate Terms,500,"{""errorMessage"":""Unable to find element with xpath '//a[text()=\""Make Decision (Make Decision)\""]'"",""request"":{""headers"":{""Accept-Encoding"":""gzip,deflate"",""Connection"":""Keep-Alive"",""Content-Length"":""73"",""Content-Type"":""application/json; charset=utf-8"",""Host"":""localhost:20378"",""User-Agent"":""Apache-HttpClient/4.5.5 (Java/9.0.4)""},""httpVersion"":""1.1"",""method"":""POST"",""post"":""{\""using\"":\""xpath\"",\""value\"":\""//a[text()=\\\""Make Decision (Make Decision)\\\""]\""}"",""url"":""/element"",""urlParsed"":{""anchor"":"""",""query"":"""",""file"":""element"",""directory"":""/"",""path"":""/element"",""relative"":""/element"",""port"":"""",""host"":"""",""password"":"""",""user"":"""",""userInfo"":"""",""authority"":"""",""protocol"":"""",""source"":""/element"",""queryKey"":{},""chunks"":[""element""]},""urlOriginal"":""/session/53619040-b64d-11e8-90bc-3d7433bc25cf/element""}}
+Command duration or timeout: 1.02 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=572746693, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 53619040-b64d-11e8-90bc-3d7433bc25cf
+*** Element info: {Using=xpath, value=//a[text()=""Make Decision (Make Decision)""]}",4_UI_UW_LOAandCorro 2-1,text,false,,4280,0,1,4,0,0,0
+1536730631480,85,Log Out,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6768,0,1,4,0,0,0
+1536730640888,940,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6768,0,1,4,0,0,0
+1536730655796,1470,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,561632,0,1,4,0,0,0
+1536730672826,4050,Search Life,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,139883,0,1,4,0,0,0
+1536730684662,4675,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,275319,0,1,4,0,0,0
+1536730700397,7011,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,144527,0,1,4,0,0,0
+1536730714955,314,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,234083,0,1,4,0,0,0
+1536730720033,893,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,318279,0,1,4,0,0,0
+1536730726795,2202,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,327743,0,1,4,0,0,0
+1536730734448,1529,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,367468,0,1,4,0,0,0
+1536730745521,30265,Edit Benefits,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //span[contains(text(),""Non Standard"")]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=1520923717, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e6a80c30-b64d-11e8-a922-7ddea236f282",4_UI_UW_LOAandCorro 2-1,text,false,,2678,0,1,4,0,0,0
+1536730779790,30838,Click Submit - Wait for UW Checker,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()=""UW Checker""]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=1520923717, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e6a80c30-b64d-11e8-a922-7ddea236f282",4_UI_UW_LOAandCorro 2-1,text,false,,2663,0,1,4,0,0,0
+1536730817917,0,Click Submit - Wait for UW Make Decision,500,"{""errorMessage"":""Unable to find element with xpath '//a[text()=\""UW Checker\""]'"",""request"":{""headers"":{""Accept-Encoding"":""gzip,deflate"",""Connection"":""Keep-Alive"",""Content-Length"":""54"",""Content-Type"":""application/json; charset=utf-8"",""Host"":""localhost:10095"",""User-Agent"":""Apache-HttpClient/4.5.5 (Java/9.0.4)""},""httpVersion"":""1.1"",""method"":""POST"",""post"":""{\""using\"":\""xpath\"",\""value\"":\""//a[text()=\\\""UW Checker\\\""]\""}"",""url"":""/element"",""urlParsed"":{""anchor"":"""",""query"":"""",""file"":""element"",""directory"":""/"",""path"":""/element"",""relative"":""/element"",""port"":"""",""host"":"""",""password"":"""",""user"":"""",""userInfo"":"""",""authority"":"""",""protocol"":"""",""source"":""/element"",""queryKey"":{},""chunks"":[""element""]},""urlOriginal"":""/session/e6a80c30-b64d-11e8-a922-7ddea236f282/element""}}
+Command duration or timeout: 2.66 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=1520923717, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e6a80c30-b64d-11e8-a922-7ddea236f282
+*** Element info: {Using=xpath, value=//a[text()=""UW Checker""]}",4_UI_UW_LOAandCorro 2-1,text,false,,4224,0,1,4,0,0,0
+1536730827246,0,Click Submit - Wait for Await Letter Of Alternate Terms,500,"{""errorMessage"":""Unable to find element with xpath '//a[text()=\""Make Decision (Make Decision)\""]'"",""request"":{""headers"":{""Accept-Encoding"":""gzip,deflate"",""Connection"":""Keep-Alive"",""Content-Length"":""73"",""Content-Type"":""application/json; charset=utf-8"",""Host"":""localhost:10095"",""User-Agent"":""Apache-HttpClient/4.5.5 (Java/9.0.4)""},""httpVersion"":""1.1"",""method"":""POST"",""post"":""{\""using\"":\""xpath\"",\""value\"":\""//a[text()=\\\""Make Decision (Make Decision)\\\""]\""}"",""url"":""/element"",""urlParsed"":{""anchor"":"""",""query"":"""",""file"":""element"",""directory"":""/"",""path"":""/element"",""relative"":""/element"",""port"":"""",""host"":"""",""password"":"""",""user"":"""",""userInfo"":"""",""authority"":"""",""protocol"":"""",""source"":""/element"",""queryKey"":{},""chunks"":[""element""]},""urlOriginal"":""/session/e6a80c30-b64d-11e8-a922-7ddea236f282/element""}}
+Command duration or timeout: 2.93 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=1520923717, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e6a80c30-b64d-11e8-a922-7ddea236f282
+*** Element info: {Using=xpath, value=//a[text()=""Make Decision (Make Decision)""]}",4_UI_UW_LOAandCorro 2-1,text,false,,4281,0,1,3,0,0,0
+1536730837167,75,Log Out,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6768,0,1,3,0,0,0
+1536730845961,1026,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6768,0,1,3,0,0,0
+1536730859013,1230,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,561632,0,1,1,0,0,0
+1536730875151,2936,Search Life,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,146515,0,1,1,0,0,0
+1536730884461,2904,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,293764,0,1,1,0,0,0
+1536730903388,6380,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,144527,0,1,1,0,0,0
+1536730920649,118,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,234082,0,1,1,0,0,0
+1536730927380,1510,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,318683,0,1,1,0,0,0
+1536730934797,1356,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,327742,0,1,1,0,0,0
+1536730943622,2238,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,367467,0,1,1,0,0,0
+1536730956239,30927,Edit Benefits,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //span[contains(text(),""Non Standard"")]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=1939675664, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 61a41e10-b64e-11e8-bc1f-e129af6e5cbc",4_UI_UW_LOAandCorro 2-1,text,false,,2678,0,1,1,0,0,0
+1536730995023,30166,Click Submit - Wait for UW Checker,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()=""UW Checker""]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=1939675664, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 61a41e10-b64e-11e8-bc1f-e129af6e5cbc",4_UI_UW_LOAandCorro 2-1,text,false,,2663,0,1,1,0,0,0
+1536731038302,0,Click Submit - Wait for UW Make Decision,500,"{""errorMessage"":""Unable to find element with xpath '//a[text()=\""UW Checker\""]'"",""request"":{""headers"":{""Accept-Encoding"":""gzip,deflate"",""Connection"":""Keep-Alive"",""Content-Length"":""54"",""Content-Type"":""application/json; charset=utf-8"",""Host"":""localhost:19022"",""User-Agent"":""Apache-HttpClient/4.5.5 (Java/9.0.4)""},""httpVersion"":""1.1"",""method"":""POST"",""post"":""{\""using\"":\""xpath\"",\""value\"":\""//a[text()=\\\""UW Checker\\\""]\""}"",""url"":""/element"",""urlParsed"":{""anchor"":"""",""query"":"""",""file"":""element"",""directory"":""/"",""path"":""/element"",""relative"":""/element"",""port"":"""",""host"":"""",""password"":"""",""user"":"""",""userInfo"":"""",""authority"":"""",""protocol"":"""",""source"":""/element"",""queryKey"":{},""chunks"":[""element""]},""urlOriginal"":""/session/61a41e10-b64e-11e8-bc1f-e129af6e5cbc/element""}}
+Command duration or timeout: 1.45 seconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=1939675664, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 61a41e10-b64e-11e8-bc1f-e129af6e5cbc
+*** Element info: {Using=xpath, value=//a[text()=""UW Checker""]}",4_UI_UW_LOAandCorro 2-1,text,false,,4224,0,1,1,0,0,0
+1536731045488,0,Click Submit - Wait for Await Letter Of Alternate Terms,500,"{""errorMessage"":""Unable to find element with xpath '//a[text()=\""Make Decision (Make Decision)\""]'"",""request"":{""headers"":{""Accept-Encoding"":""gzip,deflate"",""Connection"":""Keep-Alive"",""Content-Length"":""73"",""Content-Type"":""application/json; charset=utf-8"",""Host"":""localhost:19022"",""User-Agent"":""Apache-HttpClient/4.5.5 (Java/9.0.4)""},""httpVersion"":""1.1"",""method"":""POST"",""post"":""{\""using\"":\""xpath\"",\""value\"":\""//a[text()=\\\""Make Decision (Make Decision)\\\""]\""}"",""url"":""/element"",""urlParsed"":{""anchor"":"""",""query"":"""",""file"":""element"",""directory"":""/"",""path"":""/element"",""relative"":""/element"",""port"":"""",""host"":"""",""password"":"""",""user"":"""",""userInfo"":"""",""authority"":"""",""protocol"":"""",""source"":""/element"",""queryKey"":{},""chunks"":[""element""]},""urlOriginal"":""/session/61a41e10-b64e-11e8-bc1f-e129af6e5cbc/element""}}
+Command duration or timeout: 980 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=1939675664, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 61a41e10-b64e-11e8-bc1f-e129af6e5cbc
+*** Element info: {Using=xpath, value=//a[text()=""Make Decision (Make Decision)""]}",4_UI_UW_LOAandCorro 2-1,text,false,,4285,0,1,1,0,0,0
+1536731055416,99,Log Out,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6768,0,1,1,0,0,0
+1536731653468,943,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,3,0,0,0
+1536731673879,876,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,564518,0,1,3,0,0,0
+1536731688999,1545,Search Life,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,140122,0,1,3,0,0,0
+1536731698972,1139,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,293815,0,1,3,0,0,0
+1536731705332,2021,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,144380,0,1,3,0,0,0
+1536731721655,33,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,234274,0,1,3,0,0,0
+1536731727654,238,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,318548,0,1,3,0,0,0
+1536731734020,182,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,327990,0,1,3,0,0,0
+1536731741730,313,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,367700,0,1,3,0,0,0
+1536731753456,30039,Edit Benefits,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //span[contains(text(),""Non Standard"")]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.QEszSr}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5c27c8ddf758d1deb963af33071c7936",4_UI_UW_LOAandCorro 2-1,text,false,,2771,0,1,3,0,0,0
+1536731791080,30041,Click Submit - Wait for UW Checker,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()=""UW Checker""]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.QEszSr}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5c27c8ddf758d1deb963af33071c7936",4_UI_UW_LOAandCorro 2-1,text,false,,2756,0,1,3,0,0,0
+1536731826832,0,Click Submit - Wait for UW Make Decision,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""UW Checker""]""}
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.QEszSr}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5c27c8ddf758d1deb963af33071c7936
+*** Element info: {Using=xpath, value=//a[text()=""UW Checker""]}",4_UI_UW_LOAandCorro 2-1,text,false,,3877,0,1,3,0,0,0
+1536731835582,0,Click Submit - Wait for Await Letter Of Alternate Terms,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""Make Decision (Make Decision)""]""}
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.QEszSr}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5c27c8ddf758d1deb963af33071c7936
+*** Element info: {Using=xpath, value=//a[text()=""Make Decision (Make Decision)""]}",4_UI_UW_LOAandCorro 2-1,text,false,,3915,0,1,3,0,0,0
+1536731847142,161,Log Out,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,3,0,0,0
+1536731854975,964,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,3,0,0,0
+1536731874046,1186,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,563712,0,1,3,0,0,0
+1536731890082,1647,Search Life,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,163854,0,1,3,0,0,0
+1536731902670,813,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,293815,0,1,3,0,0,0
+1536731916251,1916,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,144380,0,1,3,0,0,0
+1536731925955,145,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,234274,0,1,3,0,0,0
+1536731929633,275,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,318548,0,1,3,0,0,0
+1536731937921,136,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,327990,0,1,3,0,0,0
+1536731951396,320,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,367700,0,1,3,0,0,0
+1536731961033,30033,Edit Benefits,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //span[contains(text(),""Non Standard"")]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.gvxHj6}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5c01af64cbd61d067653f4d8298e4cfe",4_UI_UW_LOAandCorro 2-1,text,false,,2771,0,1,3,0,0,0
+1536731994324,30012,Click Submit - Wait for UW Checker,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()=""UW Checker""]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.gvxHj6}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5c01af64cbd61d067653f4d8298e4cfe",4_UI_UW_LOAandCorro 2-1,text,false,,2756,0,1,3,0,0,0
+1536732028811,0,Click Submit - Wait for UW Make Decision,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""UW Checker""]""}
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 12 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.gvxHj6}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5c01af64cbd61d067653f4d8298e4cfe
+*** Element info: {Using=xpath, value=//a[text()=""UW Checker""]}",4_UI_UW_LOAandCorro 2-1,text,false,,3877,0,1,3,0,0,0
+1536732034529,0,Click Submit - Wait for Await Letter Of Alternate Terms,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""Make Decision (Make Decision)""]""}
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 21 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.gvxHj6}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5c01af64cbd61d067653f4d8298e4cfe
+*** Element info: {Using=xpath, value=//a[text()=""Make Decision (Make Decision)""]}",4_UI_UW_LOAandCorro 2-1,text,false,,3915,0,1,3,0,0,0
+1536732045460,182,Log Out,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,3,0,0,0
+1536732048196,882,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,3,0,0,0
+1536732063494,949,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,564647,0,1,3,0,0,0
+1536732082113,2755,Search Life,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,163854,0,1,3,0,0,0
+1536732093719,842,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,293158,0,1,3,0,0,0
+1536732100113,3017,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,167798,0,1,3,0,0,0
+1536732110900,162,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,234244,0,1,3,0,0,0
+1536732122446,210,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,318518,0,1,3,0,0,0
+1536732126697,291,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,327960,0,1,3,0,0,0
+1536732132761,662,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,367670,0,1,3,0,0,0
+1536732138827,30174,Edit Benefits,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //span[contains(text(),""Non Standard"")]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.ce06kp}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 72fceb64859ba9a2be7d8bbb4321c544",4_UI_UW_LOAandCorro 2-1,text,false,,2771,0,1,3,0,0,0
+1536732173629,30027,Click Submit - Wait for UW Checker,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()=""UW Checker""]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.ce06kp}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 72fceb64859ba9a2be7d8bbb4321c544",4_UI_UW_LOAandCorro 2-1,text,false,,2756,0,1,3,0,0,0
+1536732213031,0,Click Submit - Wait for UW Make Decision,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""UW Checker""]""}
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.ce06kp}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 72fceb64859ba9a2be7d8bbb4321c544
+*** Element info: {Using=xpath, value=//a[text()=""UW Checker""]}",4_UI_UW_LOAandCorro 2-1,text,false,,3877,0,1,3,0,0,0
+1536732218552,0,Click Submit - Wait for Await Letter Of Alternate Terms,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""Make Decision (Make Decision)""]""}
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.ce06kp}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 72fceb64859ba9a2be7d8bbb4321c544
+*** Element info: {Using=xpath, value=//a[text()=""Make Decision (Make Decision)""]}",4_UI_UW_LOAandCorro 2-1,text,false,,3915,0,1,3,0,0,0
+1536732230381,219,Log Out,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,3,0,0,0
+1536732236510,760,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,2,0,0,0
+1536732251152,987,User Login,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,564522,0,1,2,0,0,0
+1536732266941,1371,Search Life,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,140122,0,1,2,0,0,0
+1536732274413,1031,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,293811,0,1,2,0,0,0
+1536732280277,1866,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,144380,0,1,2,0,0,0
+1536732298667,46,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,234264,0,1,2,0,0,0
+1536732304144,216,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,318538,0,1,1,0,0,0
+1536732309312,202,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,327980,0,1,1,0,0,0
+1536732315572,319,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,367690,0,1,1,0,0,0
+1536732321611,30075,Edit Benefits,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //span[contains(text(),""Non Standard"")]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.p34PQI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 56bba1f75344607495017c2c522f113e",4_UI_UW_LOAandCorro 2-1,text,false,,2771,0,1,1,0,0,0
+1536732361377,30053,Click Submit - Wait for UW Checker,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: //a[text()=""UW Checker""]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.p34PQI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 56bba1f75344607495017c2c522f113e",4_UI_UW_LOAandCorro 2-1,text,false,,2756,0,1,1,0,0,0
+1536732394805,0,Click Submit - Wait for UW Make Decision,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""UW Checker""]""}
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 13 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.p34PQI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 56bba1f75344607495017c2c522f113e
+*** Element info: {Using=xpath, value=//a[text()=""UW Checker""]}",4_UI_UW_LOAandCorro 2-1,text,false,,3877,0,1,1,0,0,0
+1536732399177,0,Click Submit - Wait for Await Letter Of Alternate Terms,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""Make Decision (Make Decision)""]""}
+  (Session info: chrome=69.0.3497.92)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 18 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.p34PQI}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 56bba1f75344607495017c2c522f113e
+*** Element info: {Using=xpath, value=//a[text()=""Make Decision (Make Decision)""]}",4_UI_UW_LOAandCorro 2-1,text,false,,3915,0,1,1,0,0,0
+1536732411470,162,Log Out,200,OK,4_UI_UW_LOAandCorro 2-1,text,true,,6835,0,1,1,0,0,0
+1536907116780,1088,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,6768,0,1,6,0,0,0
+1536907134997,1206,User Login,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,565917,0,1,6,0,0,0
+1536907151616,2392,Search Life,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,139543,0,1,6,0,0,0
+1536907162174,2933,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,292408,0,1,6,0,0,0
+1536907173659,9277,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,173886,0,1,6,0,0,0
+1536907195976,123,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,233107,0,1,6,0,0,0
+1536907206753,1946,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,317683,0,1,6,0,0,0
+1536907212650,1360,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,326736,0,1,6,0,0,0
+1536907217469,894,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,366458,0,1,6,0,0,0
+1536907224862,17842,Edit Benefits,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,339264,0,1,6,0,0,0
+1536907249967,25100,Click Submit - Wait for UW Checker,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,148765,0,1,5,0,0,0
+1536907289995,8456,Click Submit - Wait for UW Make Decision,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,196618,0,1,5,0,0,0
+1536907303111,23659,Click Submit - Wait for Await Letter Of Alternate Terms,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,156992,0,1,4,0,0,0
+1536907342598,50,Log Out,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,6768,0,1,4,0,0,0
+1536907346750,786,Navigate to Landing Page,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,6768,0,1,4,0,0,0
+1536907366880,1224,User Login,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,565917,0,1,3,0,0,0
+1536907384149,2068,Search Life,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,146169,0,1,3,0,0,0
+1536907394084,2922,Click Initial Assessment,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,292408,0,1,3,0,0,0
+1536907403227,6002,Click Make Decision Button,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,144185,0,1,3,0,0,0
+1536907421756,114,Click Make Decision Status,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,233109,0,1,3,0,0,0
+1536907433656,681,Select Decision Type,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,317676,0,1,3,0,0,0
+1536907445660,1276,Click Edit Benefit Details,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,326738,0,1,3,0,0,0
+1536907454000,889,Click Update Benefit,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,366460,0,1,2,0,0,0
+1536907461988,10317,Edit Benefits,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,339266,0,1,1,0,0,0
+1536907483599,11139,Click Submit - Wait for UW Checker,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,148765,0,1,1,0,0,0
+1536907507978,6537,Click Submit - Wait for UW Make Decision,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,154232,0,1,1,0,0,0
+1536907519894,60880,Click Submit - Wait for Await Letter Of Alternate Terms,500,"Timed out after 60 seconds waiting for visibility of element located by By.xpath: //a[text()=""Await Letter Of Alternate Terms""]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksUsername=null, socksPassword=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=34655061, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 5640a420-b7e9-11e8-8ff5-891d3ca55f2d",4_UI_UW_LOAandCorro 3-1,text,false,,2681,0,1,1,0,0,0
+1536907591120,56,Log Out,200,OK,4_UI_UW_LOAandCorro 3-1,text,true,,6768,0,1,1,0,0,0

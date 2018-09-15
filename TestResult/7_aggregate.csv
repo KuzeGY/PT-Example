@@ -1,0 +1,336 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,Latency,IdleTime,Connect1536194698678,1268,Navigate to Landing Page,200,OK,7_UI_NB_NPW 1-1,text,true,,6835,0,1,1,0,0,0
+1536194704652,0,User Login,500,java.lang.InterruptedException: sleep interrupted,7_UI_NB_NPW 1-1,text,false,Test failed: text expected to contain /Urgent work/,1088,0,1,1,0,0,0
+1536194711488,717,Navigate to Landing Page,200,OK,7_UI_NB_NPW 1-1,text,true,,6835,0,1,1,0,0,0
+1536194723666,482,User Login,200,OK,7_UI_NB_NPW 1-1,text,true,,186727,0,1,1,0,0,0
+1536194736665,30166,Search Policy,500,"Timed out after 30 seconds waiting for frame to be available: By.xpath: //div[@id=""module1""]//iframe
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.imlNP8}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5bfdd46589fdcdbebac594650665d7fd",7_UI_NB_NPW 1-1,text,false,,2747,0,1,1,0,0,0
+1536194769890,0,Click Action,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//button[text()=""Actions ""]""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.imlNP8}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5bfdd46589fdcdbebac594650665d7fd
+*** Element info: {Using=xpath, value=//button[text()=""Actions ""]}",7_UI_NB_NPW 1-1,text,false,,3889,0,1,1,0,0,0
+1536194772941,0,Click Request NPW,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//span[text()=""Request NPW""]""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 16 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.imlNP8}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5bfdd46589fdcdbebac594650665d7fd
+*** Element info: {Using=xpath, value=//span[text()=""Request NPW""]}",7_UI_NB_NPW 1-1,text,false,,3892,0,1,1,0,0,0
+1536194775994,0,Finalise NPW Request,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//select[@id=""NPWType""]""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.imlNP8}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5bfdd46589fdcdbebac594650665d7fd
+*** Element info: {Using=xpath, value=//select[@id=""NPWType""]}",7_UI_NB_NPW 1-1,text,false,,3871,0,1,1,0,0,0
+1536194779048,0,Click Process NPW,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//a[text()=""Process NPW (NPW Process)""]""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.imlNP8}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5bfdd46589fdcdbebac594650665d7fd
+*** Element info: {Using=xpath, value=//a[text()=""Process NPW (NPW Process)""]}",7_UI_NB_NPW 1-1,text,false,,3903,0,1,1,0,0,0
+1536194782098,0,Click Submit ,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//button[contains(text(),""Submit"")]""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.imlNP8}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5bfdd46589fdcdbebac594650665d7fd
+*** Element info: {Using=xpath, value=//button[contains(text(),""Submit"")]}",7_UI_NB_NPW 1-1,text,false,,3896,0,1,1,0,0,0
+1536194791644,178,Log Out,200,OK,7_UI_NB_NPW 1-1,text,true,,6835,0,1,1,0,0,0
+1536194846822,710,Navigate to Landing Page,200,OK,7_UI_NB_NPW 1-1,text,true,,6835,0,1,1,0,0,0
+1536194858272,574,User Login,200,OK,7_UI_NB_NPW 1-1,text,true,,186500,0,1,1,0,0,0
+1536194871290,792,Search Policy,200,OK,7_UI_NB_NPW 1-1,text,true,,89182,0,1,1,0,0,0
+1536194875251,220,Click Action,200,OK,7_UI_NB_NPW 1-1,text,true,,191444,0,1,1,0,0,0
+1536194879933,62,Click Request NPW,200,OK,7_UI_NB_NPW 1-1,text,true,,115137,0,1,1,0,0,0
+1536194892491,2123,Finalise NPW Request,200,OK,7_UI_NB_NPW 1-1,text,true,,103532,0,1,1,0,0,0
+1536194899734,53,Click Process NPW,200,OK,7_UI_NB_NPW 1-1,text,true,,133738,0,1,1,0,0,0
+1536194902959,30191,Click Submit ,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: (//div[@class=""layout layout-noheader layout-noheader-workarea_header""]//a[contains(text(),""Resolved-NPW"")])[2]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.DO4RMi}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: a65455bf05ffc832c9ebe8063656c9cf",7_UI_NB_NPW 1-1,text,false,,2840,0,1,1,0,0,0
+1536194942613,189,Log Out,200,OK,7_UI_NB_NPW 1-1,text,true,,6835,0,1,1,0,0,0
+1536544039166,748,Navigate to Landing Page,200,OK,7_UI_NB_NPW 1-1,text,true,,6835,0,1,1,0,0,0
+1536544060955,79,User Login,200,OK,7_UI_NB_NPW 1-1,text,true,,186501,0,1,1,0,0,0
+1536544083477,2838,Search Policy,200,OK,7_UI_NB_NPW 1-1,text,true,,119459,0,1,1,0,0,0
+1536544094593,1026,Click Action,200,OK,7_UI_NB_NPW 1-1,text,true,,217479,0,1,1,0,0,0
+1536544104817,33,Click Request NPW,200,OK,7_UI_NB_NPW 1-1,text,true,,148207,0,1,1,0,0,0
+1536544122501,5069,Finalise NPW Request,200,OK,7_UI_NB_NPW 1-1,text,true,,132842,0,1,1,0,0,0
+1536544136925,34,Click Process NPW,200,OK,7_UI_NB_NPW 1-1,text,true,,170374,0,1,1,0,0,0
+1536544145149,30183,Click Submit ,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: (//div[@class=""layout layout-noheader layout-noheader-workarea_header""]//a[contains(text(),""Resolved-NPW"")])[2]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.p66f01}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: bd32dd944fcd6f4fca69e92d0c34e572",7_UI_NB_NPW 1-1,text,false,,2840,0,1,1,0,0,0
+1536544194894,153,Log Out,200,OK,7_UI_NB_NPW 1-1,text,true,,6835,0,1,1,0,0,0
+1536545064911,982,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6835,0,1,5,0,0,0
+1536545111970,619,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,186728,0,1,5,0,0,0
+1536545157118,30199,Search Policy,500,"Timed out after 30 seconds waiting for frame to be available: By.xpath: //div[@id=""module1""]//iframe
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.72p5Qy}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f499ad8ec92c6a8890279e09a93f74b0",7_UI_NB_NPW 5-1,text,false,,2748,0,1,5,0,0,0
+1536545190902,0,Click Action,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//button[text()=""Actions ""]""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 15 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.72p5Qy}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: f499ad8ec92c6a8890279e09a93f74b0
+*** Element info: {Using=xpath, value=//button[text()=""Actions ""]}",7_UI_NB_NPW 5-1,text,false,,3891,0,1,5,0,0,0
+1536545472173,615,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6835,0,1,5,0,0,0
+1536545551951,2505,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,186524,0,1,5,0,0,0
+1536545900016,687,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6835,0,1,5,0,0,0
+1536545975401,607,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,186467,0,1,5,0,0,0
+1536545993871,0,Search Policy,500,java.lang.InterruptedException: sleep interrupted,7_UI_NB_NPW 5-1,text,false,,1088,0,1,5,0,0,0
+1536546160075,706,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6835,0,1,5,0,0,0
+1536546245766,600,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,186522,0,1,5,0,0,0
+1536546318378,955,Search Policy,200,OK,7_UI_NB_NPW 5-1,text,true,,114919,0,1,5,0,0,0
+1536546596244,763,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6768,0,1,5,0,0,0
+1536546623337,843,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,185500,0,1,5,0,0,0
+1536546693942,30425,Search Policy,500,"Timed out after 30 seconds waiting for frame to be available: By.xpath: //div[@id=""module1""]//iframe
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=360394547, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 59008220-b4a1-11e8-84b0-9789d13fb4bb",7_UI_NB_NPW 5-1,text,false,,2655,0,1,5,0,0,0
+1536546728349,0,Click Action,500,java.lang.InterruptedException: sleep interrupted,7_UI_NB_NPW 5-1,text,false,,1088,0,1,5,0,0,0
+1536546930965,898,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6768,0,1,5,0,0,0
+1536546951945,683,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,185579,0,1,5,0,0,0
+1536546969165,30506,Search Policy,500,"Timed out after 30 seconds waiting for frame to be available: By.xpath: //div[@id=""module1""]//iframe
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=918657095, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 27462450-b4a2-11e8-9dfa-1d007e878ac2",7_UI_NB_NPW 5-1,text,false,,2655,0,1,5,0,0,0
+1536547004267,0,Click Action,500,java.lang.InterruptedException: sleep interrupted,7_UI_NB_NPW 5-1,text,false,,1088,0,1,5,0,0,0
+1536547184205,630,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6835,0,1,5,0,0,0
+1536547227488,565,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,186531,0,1,5,0,0,0
+1536547277220,30036,Search Policy,500,"Timed out after 30 seconds waiting for frame to be available: By.xpath: //div[@id=""module1""]//iframe
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.1aUZCX}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 8bedb9ccd968d4cca1ca430f7d37fbfb",7_UI_NB_NPW 5-1,text,false,,2749,0,1,5,0,0,0
+1536548137555,631,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6835,0,1,5,0,0,0
+1536548153068,618,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,186501,0,1,5,0,0,0
+1536548203058,1068,Search Policy,200,OK,7_UI_NB_NPW 5-1,text,true,,114920,0,1,5,0,0,0
+1536548281317,286,Click Action,200,OK,7_UI_NB_NPW 5-1,text,true,,217260,0,1,5,0,0,0
+1536548319791,99,Click Request NPW,200,OK,7_UI_NB_NPW 5-1,text,true,,142662,0,1,5,0,0,0
+1536548343184,1497,Finalise NPW Request,200,OK,7_UI_NB_NPW 5-1,text,true,,133251,0,1,5,0,0,0
+1536549453599,661,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6835,0,1,5,0,0,0
+1536549480942,4457,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,186750,0,1,5,0,0,0
+1536549508283,38,Search Policy,200,OK,7_UI_NB_NPW 5-1,text,true,,186750,0,1,5,0,0,0
+1536549529970,0,Click Action,500,"no such element: Unable to locate element: {""method"":""xpath"",""selector"":""//button[text()=""Actions ""]""}
+  (Session info: chrome=69.0.3497.81)
+  (Driver info: chromedriver=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363),platform=Mac OS X 10.13.4 x86_64) (WARNING: The server did not provide any stacktrace information)
+Command duration or timeout: 17 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.HFQGCm}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 4f732e48a3d85c0028f9c7d38892c2b4
+*** Element info: {Using=xpath, value=//button[text()=""Actions ""]}",7_UI_NB_NPW 5-1,text,false,,3892,0,1,5,0,0,0
+1536549538647,0,Click Request NPW,500,java.lang.InterruptedException: sleep interrupted,7_UI_NB_NPW 5-1,text,false,,1088,0,1,5,0,0,0
+1536549806478,603,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6835,0,1,5,0,0,0
+1536549891382,21,User Login,500,"java.lang.InterruptedException: sleep interrupted
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: driver.version: unknown",7_UI_NB_NPW 5-1,text,false,Test failed: text expected to contain /Urgent work/,1806,0,1,1,0,0,0
+1536550241209,1173,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6835,0,1,5,0,0,0
+1536550257844,570,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,186531,0,1,5,0,0,0
+1536550272503,1897,Search Policy,200,OK,7_UI_NB_NPW 5-1,text,true,,127249,0,1,5,0,0,0
+1536550279813,218,Click Action,200,OK,7_UI_NB_NPW 5-1,text,true,,217388,0,1,5,0,0,0
+1536550294238,63,Click Request NPW,200,OK,7_UI_NB_NPW 5-1,text,true,,142662,0,1,5,0,0,0
+1536550318625,1606,Finalise NPW Request,200,OK,7_UI_NB_NPW 5-1,text,true,,166998,0,1,5,0,0,0
+1536550338332,45,Click Process NPW,200,OK,7_UI_NB_NPW 5-1,text,true,,164702,0,1,5,0,0,0
+1536550350213,30203,Click Submit ,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: (//div[@class=""layout layout-noheader layout-noheader-workarea_header""]//a[contains(text(),""Resolved-NPW"")])[2]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.oMREYq}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 9d35cb791728931b123715b242386837",7_UI_NB_NPW 5-1,text,false,,2841,0,1,5,0,0,0
+1536550391888,212,Log Out,200,OK,7_UI_NB_NPW 5-1,text,true,,6835,0,1,5,0,0,0
+1536550399565,760,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6835,0,1,5,0,0,0
+1536550419403,614,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,186501,0,1,5,0,0,0
+1536550438275,1649,Search Policy,200,OK,7_UI_NB_NPW 5-1,text,true,,127629,0,1,5,0,0,0
+1536550450945,214,Click Action,200,OK,7_UI_NB_NPW 5-1,text,true,,217371,0,1,5,0,0,0
+1536550465398,32,Click Request NPW,200,OK,7_UI_NB_NPW 5-1,text,true,,142654,0,1,5,0,0,0
+1536550486778,1576,Finalise NPW Request,200,OK,7_UI_NB_NPW 5-1,text,true,,132868,0,1,5,0,0,0
+1536550500758,199,Click Process NPW,200,OK,7_UI_NB_NPW 5-1,text,true,,164722,0,1,5,0,0,0
+1536550508757,30020,Click Submit ,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: (//div[@class=""layout layout-noheader layout-noheader-workarea_header""]//a[contains(text(),""Resolved-NPW"")])[2]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.sdBVyB}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.81, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 1038cb1efbe1bd09cfbe7fe5bad3063c",7_UI_NB_NPW 5-1,text,false,,2841,0,1,5,0,0,0
+1536550548384,160,Log Out,200,OK,7_UI_NB_NPW 5-1,text,true,,6835,0,1,5,0,0,0
+1536708124433,1180,Navigate to Landing Page,200,OK,7_UI_NB_NPW 1-1,text,true,,6768,0,1,1,0,0,0
+1536708140691,781,User Login,200,OK,7_UI_NB_NPW 1-1,text,true,,185501,0,1,1,0,0,0
+1536708155386,2715,Search Policy,200,OK,7_UI_NB_NPW 1-1,text,true,,139869,0,1,1,0,0,0
+1536708171516,1178,Click Action,200,OK,7_UI_NB_NPW 1-1,text,true,,223326,0,1,1,0,0,0
+1536708189688,87,Click Request NPW,200,OK,7_UI_NB_NPW 1-1,text,true,,148714,0,1,1,0,0,0
+1536708209679,3009,Finalise NPW Request,200,OK,7_UI_NB_NPW 1-1,text,true,,166663,0,1,1,0,0,0
+1536708219701,103,Click Process NPW,200,OK,7_UI_NB_NPW 1-1,text,true,,164447,0,1,1,0,0,0
+1536708224470,30438,Click Submit ,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: (//div[@class=""layout layout-noheader layout-noheader-workarea_header""]//a[contains(text(),""Resolved-NPW"")])[2]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=727190471, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 7c1049c0-b619-11e8-a358-a9ae4fc3b15c",7_UI_NB_NPW 1-1,text,false,,2748,0,1,1,0,0,0
+1536708269539,58,Log Out,200,OK,7_UI_NB_NPW 1-1,text,true,,6768,0,1,1,0,0,0
+1536724970040,1142,Navigate to Landing Page,200,OK,7_UI_NB_NPW 1-1,text,true,,6835,0,1,1,0,0,0
+1536724983595,600,User Login,200,OK,7_UI_NB_NPW 1-1,text,true,,186524,0,1,1,0,0,0
+1536724999820,1374,Search Policy,200,OK,7_UI_NB_NPW 1-1,text,true,,133506,0,1,1,0,0,0
+1536725017189,181,Click Action,200,OK,7_UI_NB_NPW 1-1,text,true,,223517,0,1,1,0,0,0
+1536725023864,48,Click Request NPW,200,OK,7_UI_NB_NPW 1-1,text,true,,148921,0,1,1,0,0,0
+1536725049492,1539,Finalise NPW Request,200,OK,7_UI_NB_NPW 1-1,text,true,,132820,0,1,1,0,0,0
+1536725058210,69,Click Process NPW,200,OK,7_UI_NB_NPW 1-1,text,true,,164680,0,1,1,0,0,0
+1536725064384,30157,Click Submit ,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: (//div[@class=""layout layout-noheader layout-noheader-workarea_header""]//a[contains(text(),""Resolved-NPW"")])[2]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, mobileEmulationEnabled=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565386 (45a059dc425e08165f9a10324bd1380cc13ca363), userDataDir=/var/folders/cv/48ns2jld1d11hnvgqfxfsvp40000gn/T/.org.chromium.Chromium.ROHnQo}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, hasTouchScreen=false, version=69.0.3497.92, platform=MAC, browserConnectionEnabled=false, nativeEvents=true, acceptSslCerts=false, acceptInsecureCerts=false, locationContextEnabled=true, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, cssSelectorsEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=}]
+Session ID: 5ddd93fc5696b2e8499206f17a3995ae",7_UI_NB_NPW 1-1,text,false,,2842,0,1,1,0,0,0
+1536725114029,180,Log Out,200,OK,7_UI_NB_NPW 1-1,text,true,,6835,0,1,1,0,0,0
+1536727629469,1150,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6768,0,1,5,0,0,0
+1536727667578,1332,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,185501,0,1,5,0,0,0
+1536727703988,3783,Search Policy,200,OK,7_UI_NB_NPW 5-1,text,true,,139868,0,1,5,0,0,0
+1536727727743,936,Click Action,200,OK,7_UI_NB_NPW 5-1,text,true,,223214,0,1,5,0,0,0
+1536727789488,90,Click Request NPW,200,OK,7_UI_NB_NPW 5-1,text,true,,148711,0,1,5,0,0,0
+1536727838927,2856,Finalise NPW Request,200,OK,7_UI_NB_NPW 5-1,text,true,,139280,0,1,5,0,0,0
+1536727848319,113,Click Process NPW,200,OK,7_UI_NB_NPW 5-1,text,true,,164448,0,1,5,0,0,0
+1536727852670,30320,Click Submit - Wait for Resolved-NPW,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: (//div[@class=""layout layout-noheader layout-noheader-workarea_header""]//a[contains(text(),""Resolved-NPW"")])[2]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=900475743, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: e2891240-b646-11e8-843b-ebff4fd03558",7_UI_NB_NPW 5-1,text,false,,2748,0,1,5,0,0,0
+1536730154465,1213,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6768,0,1,5,0,0,0
+1536730172037,1909,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,185502,0,1,5,0,0,0
+1536730197779,3667,Search Policy,200,OK,7_UI_NB_NPW 5-1,text,true,,133616,0,1,5,0,0,0
+1536730206618,1448,Click Action,200,OK,7_UI_NB_NPW 5-1,text,true,,223214,0,1,5,0,0,0
+1536730217287,217,Click Request NPW,200,OK,7_UI_NB_NPW 5-1,text,true,,148711,0,1,5,0,0,0
+1536730243683,4744,Finalise NPW Request,200,OK,7_UI_NB_NPW 5-1,text,true,,132550,0,1,5,0,0,0
+1536730263665,185,Click Process NPW,200,OK,7_UI_NB_NPW 5-1,text,true,,164448,0,1,5,0,0,0
+1536730271667,30419,Click Submit - Wait for Resolved-NPW,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: (//div[@class=""layout layout-noheader layout-noheader-workarea_header""]//a[contains(text(),""Resolved-NPW"")])[2]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=1320913344, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: c7becc60-b64c-11e8-98dd-2f0a3f410d4a",7_UI_NB_NPW 5-1,text,false,,2749,0,1,5,0,0,0
+1536730312970,77,Log Out,200,OK,7_UI_NB_NPW 5-1,text,true,,6768,0,1,5,0,0,0
+1536730325261,910,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6768,0,1,5,0,0,0
+1536730342699,1334,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,185502,0,1,5,0,0,0
+1536730359044,4276,Search Policy,200,OK,7_UI_NB_NPW 5-1,text,true,,133236,0,1,5,0,0,0
+1536730366993,1232,Click Action,200,OK,7_UI_NB_NPW 5-1,text,true,,223214,0,1,5,0,0,0
+1536730380962,212,Click Request NPW,200,OK,7_UI_NB_NPW 5-1,text,true,,148711,0,1,5,0,0,0
+1536730397805,6533,Finalise NPW Request,200,OK,7_UI_NB_NPW 5-1,text,true,,132930,0,1,5,0,0,0
+1536730417485,220,Click Process NPW,200,OK,7_UI_NB_NPW 5-1,text,true,,164447,0,1,5,0,0,0
+1536730425573,30208,Click Submit - Wait for Resolved-NPW,500,"Timed out after 30 seconds waiting for visibility of element located by By.xpath: (//div[@class=""layout layout-noheader layout-noheader-workarea_header""]//a[contains(text(),""Resolved-NPW"")])[2]
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksPassword=null, socksUsername=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=665842782, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 2a282090-b64d-11e8-8e86-4f05b32c5151",7_UI_NB_NPW 5-1,text,false,,2748,0,1,5,0,0,0
+1536730470475,55,Log Out,200,OK,7_UI_NB_NPW 5-1,text,true,,6768,0,1,5,0,0,0
+1536907120745,704,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6768,0,1,6,0,0,0
+1536907139201,1254,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,185435,0,1,6,0,0,0
+1536907154162,2828,Search Policy,200,OK,7_UI_NB_NPW 5-1,text,true,,139515,0,1,6,0,0,0
+1536907162317,1743,Click Action,200,OK,7_UI_NB_NPW 5-1,text,true,,222855,0,1,6,0,0,0
+1536907169491,89,Click Request NPW,200,OK,7_UI_NB_NPW 5-1,text,true,,148357,0,1,6,0,0,0
+1536907187548,4778,Finalise NPW Request,200,OK,7_UI_NB_NPW 5-1,text,true,,132586,0,1,6,0,0,0
+1536907210465,105,Click Process NPW,200,OK,7_UI_NB_NPW 5-1,text,true,,164095,0,1,6,0,0,0
+1536907216204,30362,Click Submit - Wait for Resolved-NPW,200,OK,7_UI_NB_NPW 5-1,text,true,,119276,0,1,6,0,0,0
+1536907261258,62,Log Out,200,OK,7_UI_NB_NPW 5-1,text,true,,6768,0,1,6,0,0,0
+1536907264996,873,Navigate to Landing Page,200,OK,7_UI_NB_NPW 5-1,text,true,,6768,0,1,6,0,0,0
+1536907281524,1063,User Login,200,OK,7_UI_NB_NPW 5-1,text,true,,185435,0,1,5,0,0,0
+1536907296853,0,Search Policy,500,"{""errorMessage"":""Unable to find element with xpath '//a[contains(text(),\""P-\"")]'"",""request"":{""headers"":{""Accept-Encoding"":""gzip,deflate"",""Connection"":""Keep-Alive"",""Content-Length"":""56"",""Content-Type"":""application/json; charset=utf-8"",""Host"":""localhost:26035"",""User-Agent"":""Apache-HttpClient/4.5.5 (Java/9.0.4)""},""httpVersion"":""1.1"",""method"":""POST"",""post"":""{\""using\"":\""xpath\"",\""value\"":\""//a[contains(text(),\\\""P-\\\"")]\""}"",""url"":""/element"",""urlParsed"":{""anchor"":"""",""query"":"""",""file"":""element"",""directory"":""/"",""path"":""/element"",""relative"":""/element"",""port"":"""",""host"":"""",""password"":"""",""user"":"""",""userInfo"":"""",""authority"":"""",""protocol"":"""",""source"":""/element"",""queryKey"":{},""chunks"":[""element""]},""urlOriginal"":""/session/269063a0-b7e9-11e8-9bd0-adb0edcb6019/element""}}
+Command duration or timeout: 500 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksUsername=null, socksPassword=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=243674156, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 269063a0-b7e9-11e8-9bd0-adb0edcb6019
+*** Element info: {Using=xpath, value=//a[contains(text(),""P-"")]}",7_UI_NB_NPW 5-1,text,false,,4232,0,1,5,0,0,0
+1536907309059,0,Click Action,500,"{""errorMessage"":""Unable to find element with xpath '//button[text()=\""Actions \""]'"",""request"":{""headers"":{""Accept-Encoding"":""gzip,deflate"",""Connection"":""Keep-Alive"",""Content-Length"":""57"",""Content-Type"":""application/json; charset=utf-8"",""Host"":""localhost:26035"",""User-Agent"":""Apache-HttpClient/4.5.5 (Java/9.0.4)""},""httpVersion"":""1.1"",""method"":""POST"",""post"":""{\""using\"":\""xpath\"",\""value\"":\""//button[text()=\\\""Actions \\\""]\""}"",""url"":""/element"",""urlParsed"":{""anchor"":"""",""query"":"""",""file"":""element"",""directory"":""/"",""path"":""/element"",""relative"":""/element"",""port"":"""",""host"":"""",""password"":"""",""user"":"""",""userInfo"":"""",""authority"":"""",""protocol"":"""",""source"":""/element"",""queryKey"":{},""chunks"":[""element""]},""urlOriginal"":""/session/269063a0-b7e9-11e8-9bd0-adb0edcb6019/element""}}
+Command duration or timeout: 438 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksUsername=null, socksPassword=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=243674156, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 269063a0-b7e9-11e8-9bd0-adb0edcb6019
+*** Element info: {Using=xpath, value=//button[text()=""Actions ""]}",7_UI_NB_NPW 5-1,text,false,,4245,0,1,4,0,0,0
+1536907316273,0,Click Request NPW,500,"{""errorMessage"":""Unable to find element with xpath '//span[text()=\""Request NPW\""]'"",""request"":{""headers"":{""Accept-Encoding"":""gzip,deflate"",""Connection"":""Keep-Alive"",""Content-Length"":""58"",""Content-Type"":""application/json; charset=utf-8"",""Host"":""localhost:26035"",""User-Agent"":""Apache-HttpClient/4.5.5 (Java/9.0.4)""},""httpVersion"":""1.1"",""method"":""POST"",""post"":""{\""using\"":\""xpath\"",\""value\"":\""//span[text()=\\\""Request NPW\\\""]\""}"",""url"":""/element"",""urlParsed"":{""anchor"":"""",""query"":"""",""file"":""element"",""directory"":""/"",""path"":""/element"",""relative"":""/element"",""port"":"""",""host"":"""",""password"":"""",""user"":"""",""userInfo"":"""",""authority"":"""",""protocol"":"""",""source"":""/element"",""queryKey"":{},""chunks"":[""element""]},""urlOriginal"":""/session/269063a0-b7e9-11e8-9bd0-adb0edcb6019/element""}}
+Command duration or timeout: 403 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksUsername=null, socksPassword=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=243674156, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 269063a0-b7e9-11e8-9bd0-adb0edcb6019
+*** Element info: {Using=xpath, value=//span[text()=""Request NPW""]}",7_UI_NB_NPW 5-1,text,false,,4247,0,1,4,0,0,0
+1536907325122,0,Finalise NPW Request,500,"{""errorMessage"":""Unable to find element with xpath '//select[@id=\""NPWType\""]'"",""request"":{""headers"":{""Accept-Encoding"":""gzip,deflate"",""Connection"":""Keep-Alive"",""Content-Length"":""53"",""Content-Type"":""application/json; charset=utf-8"",""Host"":""localhost:26035"",""User-Agent"":""Apache-HttpClient/4.5.5 (Java/9.0.4)""},""httpVersion"":""1.1"",""method"":""POST"",""post"":""{\""using\"":\""xpath\"",\""value\"":\""//select[@id=\\\""NPWType\\\""]\""}"",""url"":""/element"",""urlParsed"":{""anchor"":"""",""query"":"""",""file"":""element"",""directory"":""/"",""path"":""/element"",""relative"":""/element"",""port"":"""",""host"":"""",""password"":"""",""user"":"""",""userInfo"":"""",""authority"":"""",""protocol"":"""",""source"":""/element"",""queryKey"":{},""chunks"":[""element""]},""urlOriginal"":""/session/269063a0-b7e9-11e8-9bd0-adb0edcb6019/element""}}
+Command duration or timeout: 450 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksUsername=null, socksPassword=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=243674156, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 269063a0-b7e9-11e8-9bd0-adb0edcb6019
+*** Element info: {Using=xpath, value=//select[@id=""NPWType""]}",7_UI_NB_NPW 5-1,text,false,,4222,0,1,4,0,0,0
+1536907330534,0,Click Process NPW,500,"{""errorMessage"":""Unable to find element with xpath '//a[text()=\""Process NPW (NPW Process)\""]'"",""request"":{""headers"":{""Accept-Encoding"":""gzip,deflate"",""Connection"":""Keep-Alive"",""Content-Length"":""69"",""Content-Type"":""application/json; charset=utf-8"",""Host"":""localhost:26035"",""User-Agent"":""Apache-HttpClient/4.5.5 (Java/9.0.4)""},""httpVersion"":""1.1"",""method"":""POST"",""post"":""{\""using\"":\""xpath\"",\""value\"":\""//a[text()=\\\""Process NPW (NPW Process)\\\""]\""}"",""url"":""/element"",""urlParsed"":{""anchor"":"""",""query"":"""",""file"":""element"",""directory"":""/"",""path"":""/element"",""relative"":""/element"",""port"":"""",""host"":"""",""password"":"""",""user"":"""",""userInfo"":"""",""authority"":"""",""protocol"":"""",""source"":""/element"",""queryKey"":{},""chunks"":[""element""]},""urlOriginal"":""/session/269063a0-b7e9-11e8-9bd0-adb0edcb6019/element""}}
+Command duration or timeout: 439 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksUsername=null, socksPassword=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=243674156, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 269063a0-b7e9-11e8-9bd0-adb0edcb6019
+*** Element info: {Using=xpath, value=//a[text()=""Process NPW (NPW Process)""]}",7_UI_NB_NPW 5-1,text,false,,4270,0,1,4,0,0,0
+1536907340934,0,Click Submit - Wait for Resolved-NPW,500,"{""errorMessage"":""Unable to find element with xpath '//button[contains(text(),\""Submit\"")]'"",""request"":{""headers"":{""Accept-Encoding"":""gzip,deflate"",""Connection"":""Keep-Alive"",""Content-Length"":""65"",""Content-Type"":""application/json; charset=utf-8"",""Host"":""localhost:26035"",""User-Agent"":""Apache-HttpClient/4.5.5 (Java/9.0.4)""},""httpVersion"":""1.1"",""method"":""POST"",""post"":""{\""using\"":\""xpath\"",\""value\"":\""//button[contains(text(),\\\""Submit\\\"")]\""}"",""url"":""/element"",""urlParsed"":{""anchor"":"""",""query"":"""",""file"":""element"",""directory"":""/"",""path"":""/element"",""relative"":""/element"",""port"":"""",""host"":"""",""password"":"""",""user"":"""",""userInfo"":"""",""authority"":"""",""protocol"":"""",""source"":""/element"",""queryKey"":{},""chunks"":[""element""]},""urlOriginal"":""/session/269063a0-b7e9-11e8-9bd0-adb0edcb6019/element""}}
+Command duration or timeout: 404 milliseconds
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '2.52.0', revision: '4c2593cfc3689a7fcd7be52549167e5ccc93ad28', time: '2016-02-11 11:22:43'
+System info: host: 'MacBook-Pro-6.local', ip: '172.20.10.3', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.4', java.version: '9.0.4'
+Driver info: org.openqa.selenium.phantomjs.PhantomJSDriver
+Capabilities [{applicationCacheEnabled=false, rotatable=false, handlesAlerts=false, databaseEnabled=false, version=2.1.1, platform=MAC, browserConnectionEnabled=false, proxy={proxyAutoconfigUrl=null, autodetect=false, socksUsername=null, socksPassword=null, httpProxy=null, proxyType=DIRECT, noProxy=null, ftpProxy=null, socksProxy=null, hCode=243674156, class=org.openqa.selenium.Proxy, sslProxy=null}, nativeEvents=true, acceptSslCerts=false, driverVersion=1.2.0, locationContextEnabled=false, webStorageEnabled=false, browserName=phantomjs, takesScreenshot=true, driverName=ghostdriver, javascriptEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 269063a0-b7e9-11e8-9bd0-adb0edcb6019
+*** Element info: {Using=xpath, value=//button[contains(text(),""Submit"")]}",7_UI_NB_NPW 5-1,text,false,,4258,0,1,4,0,0,0
+1536907354225,56,Log Out,200,OK,7_UI_NB_NPW 5-1,text,true,,6768,0,1,4,0,0,0
