@@ -1,4 +1,4 @@
-# TAL-EWF-PT Handover
+# TAL-EWF-PT Handover - Greyson
  
 ## Test Scenarios
 Scenario Number | Test Case Name
@@ -27,27 +27,34 @@ Scenario Number | Test Case Name
   * So far All of applications created by create poilcy do not have Outhstanding Action
 * UW Checker : UWmanger do not have Authority Level and Varsha Kudav cannot use in UAT, All of UW flow have added additional UW Checker Step in the Script.
 
-## Script
+## Script 
 
-### Dev Script 
-  * For Debugging propose  TAL-EWF-Debug.jmx
-  * Messy, include everything, deprecated scripts
+### TAL_EWF_API.jmx
+  * Script Include all API scenarios.
+  * Usually run in local machine for scripting, debugging 
+
+### TAL_EWF_UI.jmx 
+  * Script Include all UI scenarios.
+  * Usually run in local machine for scripting, debugging 
   
-### Stg Script TAL-EWF-UI.jmx TAL-EWF-API.jmx TAL-EWF-DataCreation.jmx
-  * For Test Sanity test before formal test, Data Creation propose
-  * Removed deprecated script, useless scrit depends on the Environment at that time
+### TAL-EWF_DataCreation.jmx
+  * For creating test data before formal test.
 
-### Prod Script  TAL-EWF-LG.jmx
-  * For Run Test in LG
-  * Change Configuration to LG variable e.g. Test Data Path, Test Result Path, Driver Path, Proxy Setting 
+### TAL-EWF_Sanity.jmx
+  * For Run Sanity Test to check environment status.
+
+### TAL-EWF_LG.jmx
+  * For Run formal test in Load Generator Machine.
+  * Configuration changed to LG variable e.g. Test Data Path, Test Result Path, Driver Path, Proxy Setting , Throughput
   
-##Test Data Preparation
+## Test Data Preparation
 
-### For All UI Scenarioa(1-8) 
+### Create PEGA Application For All UI Scenarioa(1-8) 
 TAL-EWF-DataCreateion.jmx / CreatePolicy-API
 Change Loop to 1.5 Times totol work loads 
 e.g 1 Hour Peak Load Test, Total UI work
-Number | Work Load / Hr
+
+Scenario Number|Work Load / Hr
 ------------ | -------------
 1 | 32
 2 | 32
@@ -60,28 +67,28 @@ Number | Work Load / Hr
 Total | 122
 1.5X| 183
 
-Record Application RefNo e.g. PTS01001 - PTS01183
-Leave "40" applications for sanity test each scenarios "3-5" Loops
-  e.g. PTS01001 - PTS01040 (Taken for Sanity)
-The Rest of them for Peak Loat Test
-  e.g. PTS01041 - PTS01183
+* Step1 : Record Application RefNo e.g. PTS01001 - PTS01183
+	* Leave "40" applications for sanity test each scenarios "3-5" Loops e.g. PTS01001 - PTS01040 (Taken for Sanity)
+	* The Rest of them for Peak Loat Test e.g. PTS01041 - PTS01183
 
-Plan for seperate application RefNo for different UI Scenarios
-  e.g Scenario1: PTS01041 - PTS01073 
-  e.g Scenario2: PTS01074 - PTS01106
-  e.g Scenario3: PTS01107 - PTS01013
+* Step2 : Modify TestData/10_CreatePolicy.csv to keep RefNo identical to Step1
 
-Modify All CSV files in /TestData to identical with what you planned. 
+* Step3 : Run CreatePolicy Test Group
+
+* Step4 : Plan for seperate application RefNo for different Test Scenarios
+  	* e.g Scenario1: PTS01041 - PTS01073 
+  	* e.g Scenario2: PTS01074 - PTS01106
+  	* e.g Scenario3: PTS01107 - PTS01013
+
+* Step5 : Modify All CSV files in TestData to identical with what you planned in Step 4. 
 
 ### For  2: Super Policy with Non-UHG Requirement - NB Flow
 Issue: Dependency with Scenario 1
 In TAL-EWF-DataCreation.jmx
-Step1 : Change Loop Number in Test Group : 1_Super Policy with Non-UHG Requirement
-Step2 : Change RefNo in TestData/pre_Super Policy with Non-UHG Requirement.csv to meet what you planned in previous step. e.g Scenario2: PTS01074 - PTS01106 
-Step3 : Run Test Group : 1_Super Policy with Non-UHG Requirement - UW Flow in TAL-EWF-DataCreation.jmx
-
-In TAL-EWF-UI.jmx
-Step4 : Double Check Loops number and RefNo in 2_Super Policy with Non-UHG Requirement - NB Flow.csv have setup properly
+* Step1 : Change Loop Number in Test Group : 1_Super Policy with Non-UHG Requirement Senario:2
+* Step2 : Change RefNo in TestData/1_Super Policy with Non-UHG Requirement.csv to meet what you planned in previous step. e.g Scenario2: PTS01074 - PTS01106 
+* Step3 : Run Test Group : 1_Super Policy with Non-UHG Requirement - UW Flow in TAL-EWF-DataCreation.jmx
+* Step4 : Double Check TestData/2_Super Policy with Non-UHG Requirement - NB Flow.csv setup properly
 
 ### For  3: Super Policy with Non-UHG Requirement - UW Update Flow
 Issue: Application will not consumed, can always use one application to update life details
@@ -91,39 +98,35 @@ Note: Before execution, make sure the firstname is not Performance0, otherwise t
 ### For  6: LOA and Corro(BGB) - NB Flow
 Issue: Dependency with Scenario 5
 In TAL-EWF-DataCreation.jmx
-Step1 : Change Loop Number in Test Group : 5_LOA and Corro(BGB) - UW Flow
-Step2 : Change RefNo in TestData/pre_LOA and Corro(BGB) - UW Flow.csv to meet what you planned in previous step.
-  e.g Scenario6: PTS01101 - PTS01106 
-Step3 : Run Test Group : 5_LOA and Corro(BGB) - UW Flow in TAL-EWF-DataCreation.jmx
+* Step1 : Change Loop Number in Test Group : 5_LOA and Corro(BGB) - UW Flow to meet how many workload designed for run Senario:6
+* Step2 : Change RefNo in TestData/5_Super Policy with Non-UHG Requirement.csv to meet what you planned in previous step. 
+* Step3 : Run Test Group : 5_LOA and Corro(BGB) - UW Flow in TAL-EWF-DataCreation.jmx
+* Step4 : Double Check TestData/6_Super Policy with Non-UHG Requirement - NB Flow.csv setup properly
 
-In TAL-EWF-UI.jmx
-Step4 : Double Check Loops number and RefNo in 6: LOA and Corro(BGB) - NB Flow.csv have setup properly
-
-
-TO-DO!!
 ### For  9: Submit Requirements - API
-  Step1: Create Application e.g. PTS001 with Create Poilcy API
-  Step2: UW Manager Login search and click Initial Assessment on the Life in PTS001
-  Step3: Click Add Requirement button
-  Step4: Change Sub category to Non-UHG
-  Step5: Select All of requirements(Usually 10 requirements), Click Next, Click submit
-  Step6: Copy and Paste All of the Requirement ID to Test Data File
+* Step1: Create Application e.g. PTS001 with Create Poilcy API
+* Step2: UW Manager Login search and click Initial Assessment on the Life in PTS001
+* Step3: Click Add Requirement button
+* Step4: Change Sub category to Non-UHG
+* Step5: Select All of requirements(Usually 10 requirements), Click Next, Click Submit
+* Step6: Copy and Paste All of the Requirement ID to TestData/9_Submit Requirements - API.csv e.g. 3000381 - 3000390
   
-  Tips: 10 Requirment ID for 1 Hour Test in 75/Hr workload
+  Note: 10 Requirment ID for 1 Hour Test in 75/Hr workload
   
 ### For  10: Create Policy - API
-  Make Sure test data for previous test have been removed in TestData/10_CreatePolicy.csv
-  
-  Tips: 10 Requirment ID for 1 Hour Test in 75/Hr workload
+	Make Sure tested data for previous test have been removed in TestData/10_CreatePolicy.csv
 
 ### For  11: Create Policy - STP - API
+	Make Sure tested data for previous test have been removed in TestData/11_CreatePolicy-STP.csv
 
 ### For  12: Retrieve Requirements - API
-
+	All of PolicyID for Retrieve Requirement is 1765010, No need for change.
+	
 ### For  13: Create Tele Interview - API
+	Make Sure tested data for previous test have been removed in TestData/13_Create Tele Interview - API.csv
 
-## Payload Parameterization Explanation
-
+## CreatePolicy, CreatePolicy-STP, Create TI Payload Parameterization Explanation
+* <Id> ${AppID}</Id> Incremental 
 
 ## Test Exectution
 ### Sanity Test
