@@ -1,7 +1,7 @@
-#Handover
-
-##Test Scenarios
-Number | Test Case Name
+# TAL-EWF-PT Handover
+ 
+## Test Scenarios
+Scenario Number | Test Case Name
 ------------ | -------------
 1 | Super Policy with Non-UHG Requirement - UW Flow
 2 | Super Policy with Non-UHG Requirement - NB Flow
@@ -17,15 +17,17 @@ Number | Test Case Name
 12 | Retrieve Requirements - API
 13 | Create Tele Interview - API
 
-### Explanation
-* Detailed Step 
+### Detailed ExplaTest Step Details compared based on Test Strategy
+* Scenario 1 : Super Policy with Non-UHG Requirement - UW Flow
+	 * Test Step : Add 3 Non-UHG Requirements : Click Add Requirements, Change Sub-category to Non-UHG, Select Three Requirements, Click Submit
+  * Test Step : Complete It : Click Action - Click Complete - Click Submit, Iterate 3 times
 * Step : Search Life & Search Policy
+  * Test Step : Search Application Ref No : Select category to "Life" or "Policy", Click Life or Policy Start with "L-" or "P-"
 * Step : If there are any Outstanding Action then withdraw
-* Dependency
-* UW Checker
+  * So far All of applications created by create poilcy do not have Outhstanding Action
+* UW Checker : UWmanger do not have Authority Level and Varsha Kudav cannot use in UAT, All of UW flow have added additional UW Checker Step in the Script.
 
-
-##Script
+## Script
 
 ### Dev Script 
   * For Debugging propose  TAL-EWF-Debug.jmx
