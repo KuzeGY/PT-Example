@@ -17,7 +17,7 @@ Scenario Number | Test Case Name
 12 | Retrieve Requirements - API
 13 | Create Tele Interview - API
 
-### Detailed ExplaTest Step Details compared based on Test Strategy
+### Detailed Test Step Explanation based on Test Strategy
 * Scenario 1 : Super Policy with Non-UHG Requirement - UW Flow
 	 * Test Step : Add 3 Non-UHG Requirements : Click Add Requirements, Change Sub-category to Non-UHG, Select Three Requirements, Click Submit
   * Test Step : Complete It : Click Action - Click Complete - Click Submit, Iterate 3 times
