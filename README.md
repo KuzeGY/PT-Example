@@ -135,16 +135,45 @@ In TAL-EWF-DataCreation.jmx
 * <Id>${LifeID}</Id> Incremental e.g. d024fdcf-96d3-465e-b13f-e157ac400001,d024fdcf-96d3-465e-b13f-e157ac400002,...
 
 ## Test Exectution
-### Sanity Test
-### Test Data Preparation
-### Test Script Configuration : TAL-EWF-LG.jmx
-  * Path in LG
-### Migrate Package to LG
-  * Lastest TAL-EWF-LG.jmx
-  * TestData folder
-  
+### 0.Manual Sanity Test
+	Test Open Blocker scenarios, Test recently fixed scenario
+	
+### 1.Automation Sanity Test
+* In TAL_EWF_Sanity.jmx, Each UI scenario run TWO iterations, Each API scenario run Three Requests in Three minutes. 
+* Prepare and double check test data for Sanity Test set properly in "TestData" folder.
+* Run All of Test group in TAL_EWF_Sanity.jmx.
 
-##Monitoring
-###Integration - Azure App Insights
-###PAS DB - DBA
+### 1.Peak Load Test (Local)
+* Prepare and double check test data for Peak Load Test set properly in "TestData" folder.
+* Run All of Test group in TAL_EWF_UI.jmx and TAL_EWF_API.jmx.
+
+### 2.Peak Load Test (LG)
+* WinSCP LG IP : 10.134.17.65 User: gyang Password: Yh900916
+	* Check There is no changes in TAL_EWF_UI.jmx
+	* Check All latest *.csv file have migrated in TestData folder
+	
+* Putty LG IP : 10.134.17.65 User: gyang Password: Yh900916
+	* cd TestScript
+	* jmeter -n -y -f TAL_EWF_LG.jmx -l LinuxLG-log.jtl
+
+* Common Issues:
+	* Make sure path have changed from "\" to "/"
+	* Make sure Proxy setting properly in both of "HTTP Request Defaults" and "phantomJS Driver Config"
+		* Proxy: infraproxy.tower.lan : 8080
+
+* Test Result: Copy and Paste LinuxLG-log.jtl and All of csv files in "TestResult" folder from LG to Local, Read them in Jmeter.  
+
+## Logging
+### Integration Log - Azure Portal - App Insights
+
+### Function Log - Azure Portal - Functions
+
+### PAS DB - PAS DBA - Ahbishek, Shuja 
+
+## Monitoring
+### Integration - App Insights - Daniel
+
+### PEGA - To be confirmed - Praveen / Ashok
+
+### PAS DB - Ahbishek
 
